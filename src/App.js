@@ -19,6 +19,9 @@ class App extends Component {
           >
             Learn React
           </a>
+          <p className="Made-by">
+            Made by Samir and Irfan
+          </p>
         </header>
       </div>
     );
